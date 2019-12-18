@@ -1,5 +1,5 @@
 # sun-editor
-
+- 简易编辑器
 ## Project setup
 ```
 yarn install
